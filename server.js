@@ -108,7 +108,7 @@ p {
 
 <div class="container">
 
-    <h1>🚀 Backstage Self-Service Portal</h1>
+    <h1>🚀 Backstage SSP</h1>
 
     <p>Welcome to the DevOps Automation Platform Backstage Portal</p>
 
@@ -148,4 +148,5 @@ const PORT = 3000;
 
 server.listen(PORT, () => {
   console.log("Server running on port " + PORT);
+
 });
